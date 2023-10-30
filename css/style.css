@@ -1,0 +1,18 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    flex-wrap: wrap;
+}
+
+.t-center{
+    text-align: center;
+}
+.bold{
+    font-weight: bold;
+}.mt-40{
+    margin-top: 40px;
+}
